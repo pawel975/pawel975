@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pawel975
-- 👀 I’m interested in Frontend programming 
+- 👀 I’m interested in Frontend programming and seeking for programming job
 - 🌱 I’m currently learning TypeScript
 
 <!---
