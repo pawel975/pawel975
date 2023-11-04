@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pawel975
+- 👋 Hi, I’m Paweł
 - 👀 I’m interested in both Frontend and Backend programming
 - 🌱 I’m currently contribute to open source projects and learning C#
 
